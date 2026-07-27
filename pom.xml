@@ -4,7 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.automation</groupId>
-    <artifactId>automation</artifactId>
+    <artifactId>trello-mobile-automation-suite</artifactId>
+    <name>Trello & Mobile Test Automation Suite</name>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
